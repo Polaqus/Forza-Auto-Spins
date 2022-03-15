@@ -1,3 +1,7 @@
+# ***DON'T USE IT ANYMORE, IT PROBABLY WON'T WORK***
+a) this script is shit  
+b) afaik playground deleted sws from pontiacs
+
 # Forza-Auto-Spins
 an (bad) AHK script to automatically buy super wheelspins
 ## Prerequisites
@@ -5,7 +9,7 @@ This script assumes that you have:
  - 1 Pontiac GTO
  - 1 Pontiac Firebird Trans Am
  - 1 Pontiac Firebird Trans Am GTA Forza Edition
- - however many Pontiac Firebird Trans Am GTA's you want (referred here as 'wheelspins machines', **ALL OF THEM HAVE TO BE NEW SO THE OPENING ANIMATION PLAYS**)
+ - however many Pontiac Firebird Trans Am GTA's you want (referred to here as 'wheelspins machines', **ALL OF THEM HAVE TO BE NEW SO THE OPENING ANIMATION PLAYS**)
  - and finally some common sense to edit the script in case it fucks up (which is pretty likely) 
 ## Usage
 - Open the script, edit the pontiacs variable to reflect the amount of your current wheelspins machines 
